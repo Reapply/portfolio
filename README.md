@@ -5,7 +5,7 @@
 - Leading development of innovative Minecraft plugins and server experiences
 - Managing team workflows and project pipelines
 - Overseeing technical architecture and quality standards
-- [View Our Work](https://github.com/SakuraDevMC)
+- [View Our Work](https://github.com/SakuraStudiosCo)
 
 ### 🛠️ Technical Skills
 **Minecraft Development**
