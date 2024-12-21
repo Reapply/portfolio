@@ -1,6 +1,6 @@
-# Money
+# nullsafety 
 ## Minecraft Plugin Developer
-### 👨‍💻 Leadership
+### Leadership
 **Owner & Lead Developer @ Sakura Studios**
 - Leading development of innovative Minecraft plugins and server experiences
 - Managing team workflows and project pipelines
